@@ -1,0 +1,23 @@
+{
+  "name": "trumpotoria",
+  "version": "0.0.1",
+  "description": "a betting engine on real world events",
+  "main": "trump.js",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devzer01/value-gamble.git"
+  },
+  "author": "Nayana Inesh  Hettiarachch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devzer01/value-gamble/issues"
+  },
+  "homepage": "https://github.com/devzer01/value-gamble#readme"
+}
